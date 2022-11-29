@@ -1,0 +1,109 @@
+.dm-modal-box h3 {
+    font-size: 1.3em;
+}
+
+.dm-modal-box .dm-btn {
+    font-size: 3vmin;
+    padding: 0.75em 1.5em;
+    background-color: #fff;
+    border: 1px solid #bbb;
+    color: #333;
+    text-decoration: none;
+    display: inline;
+    border-radius: 4px;
+    -webkit-transition: background-color 1s ease;
+    -moz-transition: background-color 1s ease;
+    transition: background-color 1s ease;
+    padding: .75em 1em;
+    font-size: 0.8em;
+}
+
+.dm-modal-box .dm-btn:hover {
+    background-color: #ddd;
+    -webkit-transition: background-color 1s ease;
+    -moz-transition: background-color 1s ease;
+    transition: background-color 1s ease;
+}
+
+.dm-modal-box {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    width: 98%;
+    background: white;
+    border-bottom: 1px solid #aaa;
+    border-radius: 4px;
+    box-shadow: 0 3px 9px rgba(0, 0, 0, 0.4);
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    background-clip: padding-box;
+    color: #666;
+}
+
+@media (min-width: 32em) {
+
+    .dm-modal-box {
+        width: 70%;
+    }
+}
+
+.dm-modal-box header,
+.dm-modal-box .dm-modal-header {
+    padding: 1.25em 1.5em;
+    border-bottom: 1px solid #ddd;
+}
+
+.dm-modal-box header h3,
+.dm-modal-box header h4,
+.dm-modal-box .dm-modal-header h3,
+.dm-modal-box .dm-modal-header h4 {
+    margin: 0;
+}
+
+.dm-modal-box .dm-modal-body {
+    padding: 2em 1.5em;
+}
+
+.dm-modal-box footer,
+.dm-modal-box .dm-modal-footer {
+    padding: 1em;
+    border-top: 1px solid #ddd;
+    background: rgba(0, 0, 0, 0.02);
+    text-align: right;
+}
+
+.dm-modal-overlay {
+    opacity: 0;
+    filter: alpha(opacity=0);
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 900;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.3) !important;
+}
+
+.dm-modal-box a.dm-close {
+    line-height: 1;
+    font-size: 1.5em;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    text-decoration: none;
+    color: #bbb;
+}
+
+.dm-modal-box a.dm-close:hover {
+    color: #222;
+    -webkit-transition: color 1s ease;
+    -moz-transition: color 1s ease;
+    transition: color 1s ease;
+}
+
+.dm-modal-box .fullwidth {
+    width: 100%;
+    box-sizing: content-box;
+    font-size: 11px;
+    font-family: "Courier New", Courier, monospace;
+    min-height: 80px;
+}

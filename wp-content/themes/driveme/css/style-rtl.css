@@ -1,0 +1,120 @@
+
+.shop_table .product-thumbnail, #testimonials .tittle, #testimonials .testi, #testimonials .testi p, .contact .success-msg, #contact_form li, .color-switcher p,
+.theme-colours, .layouts, .backgrounds, .choose-header, .choose-footer, .theme-colours li, .theme-colours li a, .shop_table .product-thumbnail, a.addcart.loading .fa-shopping-cart {
+    text-align: right;
+}
+
+footer .social_icons {text-align: left;}
+
+.logo, header .logo, .top-bar .left-bar-side, .sub-banner .links li, .form-row-first, .form-row-last, .create-account input, .blog-side-bar ul.wid-in li:nth-child(1),
+.single-post .big-text, .single-post .post-tags h4, .single-post .auther-info li:nth-child(1), .single-post .coments li:nth-child(1), #testimonials .avatr,
+#testimonial .avatr, .testi-small .owl-dot, .nav-tabs .nav-pills > li, .billing-info .nav-tabs > li, .subcribe input, .contact-info .con-det i, .color-switcher ul li,
+.color-switcher .light, .styleswitcher a, .box-lay, footer .flicker li, .woocommerce-tabs ol.commentlist .comment_container img, .flickr_badge_image {
+    float: right;
+} 
+.pull-left {
+    float: right !important;
+}
+
+
+header .navbar-nav, .top-bar .right-bar-side, .find-drive h5 i, .prodct-single .pro-info .price, #accordion .panel-default > .panel-heading .panel-title a:before,
+.sub-banner .links, .products-number-selector, .product_title_wrapper .price, footer .link li i, footer .timing li span, .blog-side-bar ul.wid-in li:nth-child(2),
+.blog-side-bar .search button, .single-post .auther-info li:nth-child(2), .single-post .coments li:nth-child(2), #testimonials .feed-text, .where h6 i, footer button, 
+.testi-small #testimonials .avatr, .billing-tittle .process, .billing-info button.btn, .contact .error:before, #contact_form li .btn, .color-switcher .dark,
+ul.page-numbers {
+    float: left;
+}
+.pull-right {
+    float: left !important;
+}
+
+select {background: #ffffff url("../images/select-style.png") no-repeat scroll 15px center;}
+
+.panel-default > .panel-heading, .form-row-first, .form-row-last, footer .links a, .styleswitcher .switch {padding-left: 0; padding-right: 15px;}
+
+.padding-l-20, .panel-cate ul, .stock-detail li + li {padding-left: 0; padding-right: 20px;}
+
+.billing-info .intres-lesson li textarea {padding-left: 0; padding-right: 30px;}
+
+.chk-box .form-group [type="checkbox"] + span, .chk-box .form-group [type="radio"] + span
+{padding-left: 0; padding-right: 30px;}
+
+.intres-lesson li input,  .intres-lesson li select {padding-right: 30px;}
+
+.cart_totals td {padding-left: 0; padding-right: 10%;}
+.single-product .images .col-lg-3 {padding-left: 0; padding-right: 6px;}
+.single-post .comments .reply-p {padding-left: 0; padding-right: 135px;}
+.single-post .comments .reply-p-2 {padding-left: 0; padding-right: 270px;}
+.time-post-r {padding-left: 0; padding-right: 60px;}
+
+.padding-r-20 {padding-right: 0 !important; padding-left: 20px !important; }
+.form-row-first, .woocommerce-tabs .comment-text .name {padding-right: 0; padding-left: 15px;}
+.shop_table .product-thumbnail {padding-right: 0; padding-left: 25px;}
+footer .flicker li a {padding-right:0; padding-left:8px;}
+.time-post-l{padding-right: 0; padding-left: 60px;}
+
+.shop_table .order-total th {padding: 8px 12px 8px 0;}
+select {padding: 5px 5px 5px 35px;}
+#banner .text-slider h3 {padding: 0 20px 0 0 ;}
+
+footer .social_icons a, .single-post .post-tags a {margin-left: 0; margin-right: 10px;}
+.margin-l-20, #banner .text-slider h3 i, .stock-detail li + li, .billing-info button.btn-1 {margin-left: 0; margin-right: 20px;}
+#banner .text-slider .btn-1, .about-us .btn-1, .woocommerce-checkout-payment .payment_box {margin-left: 0; margin-right: 30px;}
+.margin-l-40 {margin-left: 0; margin-right: 40px;}
+.single-post .coments span, .single-post .coments span a {margin-left: 0; margin-right: 50px;}
+.margin-l-80 {margin-left: 0; margin-right: 80px;}
+#team .team-info:hover img {margin-left: 0; margin-right: -100%;}
+#feature li .hexagon::before, .hexagon::after {margin-left: 0;  margin-right: -40px;}
+/*.sorter .sorting-form {margin-left: 0; margin-right: 8px;}*/
+.woocommerce-checkout-payment label {margin-left: 0; margin-right: 14px;}
+
+.margin-r-20, .single-product .quantity, .woocommerce-tabs ol.commentlist .comment_container img, .single-post .big-text, .single-post .post-tags h4, .testi-small #testimonials .avatr 
+{margin-right: 0; margin-left: 20px;}
+.margin-r-40 {margin-right: 0; margin-left: 40px;}
+.margin-r-80 {margin-right: 0; margin-left: 80px;}
+.products .pro-info .btn, .about-us p i, .account-box > ul li i, .view-tabs.nav-tabs li:first-child, .product-content .btn-1,
+#ship-to-different-address label, form.login  input[type="submit"], .time-line .cate-name span i, .map-tittle i, .where a i,
+.pagination > li > a, .pagination > li > span, .contact .success-msg i {margin-right: 0; margin-left: 10px;}
+#accordion .panel-default > .panel-heading .panel-title a:before, #accordion .panel-default > .panel-heading .panel-title a.collapsed:before,
+.filter li a, .mCSB_inside > .mCSB_container, .mCustomScrollBox, .contact .error:before {margin-right: 0; margin-left: 0;}
+.create-account input, .chk-box .form-group [type="checkbox"] + span::before, .chk-box .form-group [type="radio"] + span::before {margin-right: 0; margin-left: 14px;}
+.woocommerce-tabs .comment-text .name {margin-right: 0; margin-left: 15px;}
+.single-post .post-tags.share .social_icons li {margin-right: 0; margin-left: 13px;}
+.contact-info .social_icons a {margin-right: 0; margin-left: 2px;}
+.color-switcher .light {margin-right: 0; margin-left: 22px;}
+.styleswitcher a {margin-right: 0; margin-left: 7px;}
+.woocommerce-cart table.cart td.actions .coupon .input-text {margin-left: auto; margin-right: 10px;}
+
+
+#preloader span:nth-child(2), #preloader span:nth-child(4) {left:0; right: 20px;}
+.boxed .is-sticky header, .logo-hex:before, .logo-hex:after  {left:0; right: 0;}
+
+.cart-popup, .srch, .prodct-single .owl-nav, .cate-heading a::before, .shop_table .remove, .cate-name span.multi-cat:last-of-type:after,
+.cat-parent:after, .cate-name span.multi-cat:last-of-type:after, .calculated_shipping h2:after {left: 0; right: auto;}
+
+#testimonial .carousel-indicators, .big-month:before, span.updated-counter, .calculated_shipping h2:after, span.updated-counter,
+.cat-parent:after, .map-overlay:after {left: auto; right: 0;}
+
+.time-line .tym-symble {left: -75px; right: auto;}
+.time-post-r .tym-symble {left: auto; right: -75px;}
+.c-date, .c-like {left: auto; right: 10px;}
+.billing-tittle .process {left: 20px; right: auto;}
+.picker_close {left: auto; right: -40px;}
+.stylebutton {left: -40px; right: auto;}
+.product-remove a.remove {left: auto; right: 15px;}
+a.addcart.loading:after { left: 9px !important; right: 11px !important;}
+
+
+.border-rght {border-left: 2px solid #dee1e4; border-right: 0;}
+
+
+@media(min-width:992px) and (max-width:1199px) {
+    #testimonials .feed-text {float: left;}
+}
+@media(min-width:768px) and (max-width:991px) {
+     #testimonials .feed-text {float: left;}
+     .srch {left: auto; right: 0;}
+}
+@media(max-width:767px) {
+     header .navbar-nav {float: right;}
+}

@@ -1,0 +1,22 @@
+<wpml-config>
+    <custom-fields>
+        <custom-field action="translate">action_btn_label</custom-field>
+        <custom-field action="translate">designation</custom-field>
+    </custom-fields>
+    <admin-texts>
+        <key name="zix_opt">
+            <key name="blog_title" />
+            <key name="read_more_text" />
+            <key name="footer_copyright" />
+            <key name="portfolio_page_heading" />
+            <key name="team_page_heading" />
+            <key name="service_page_heading" />
+            <key name="shop_title" />
+            <key name="related_products_title" />
+            <key name="heading_404" />
+            <key name="error_heading" />
+            <key name="error_subheading" />
+            <key name="error_description" />
+        </key>
+    </admin-texts>
+</wpml-config>

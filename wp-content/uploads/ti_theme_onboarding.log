@@ -1,0 +1,27 @@
+[23/Nov/2022:09:27:17] (I): WordPress Instance Info:
+[23/Nov/2022:09:27:17] (I): Home URL : http://10.10.0.11
+[23/Nov/2022:09:27:17] (I): Site URL : http://10.10.0.11
+[23/Nov/2022:09:27:17] (I): WordPress Version : 6.1.1
+[23/Nov/2022:09:27:17] (I): Onboarding Version : 1.1.29
+[23/Nov/2022:09:27:17] (I): Multisite : No
+[23/Nov/2022:09:27:17] (I): Server Info : nginx/1.18.0
+[23/Nov/2022:09:27:17] (I): PHP Version : 7.4.3
+[23/Nov/2022:09:27:17] (I): HTTPS : No
+[23/Nov/2022:09:27:17] (I): PHP Max Execution Time : 1200
+[23/Nov/2022:09:27:17] (I): PHP Max Input Vars : 1000
+[23/Nov/2022:09:27:17] (I): Max Upload Size : 209715200
+[23/Nov/2022:09:27:17] (I): Plugins:
+[23/Nov/2022:09:27:17] (I): [PLUGIN] Blocksy Companion : v1.8.58 (CreativeThemes)
+[23/Nov/2022:09:27:17] (I): [PLUGIN] Brizy : v2.4.13 (Brizy.io)
+[23/Nov/2022:09:27:17] (I): [PLUGIN] Elementor : v3.8.1 (Elementor.com)
+[23/Nov/2022:09:27:17] (I): [PLUGIN] Getwid : v1.8.2 (MotoPress)
+[23/Nov/2022:09:27:17] (I): [PLUGIN] HT Slider For Elementor : v1.3.9 (HT Plugins)
+[23/Nov/2022:09:27:17] (I): [PLUGIN] HubSpot All-In-One Marketing - Forms, Popups, Live Chat : v9.0.480 (HubSpot)
+[23/Nov/2022:09:27:17] (I): [PLUGIN] Otter – Page Builder Blocks &amp; Extensions for Gutenberg : v2.1.4 (ThemeIsle)
+[23/Nov/2022:09:27:17] (I): [PLUGIN] Templates Patterns Collection : v1.1.29 (ThemeIsle)
+[23/Nov/2022:09:27:17] (I): [PLUGIN] ThemeGrill Demo Importer : v1.8.8.2 (ThemeGrill)
+[23/Nov/2022:09:27:17] (I): [PLUGIN] TranslatePress - Multilingual : v2.4.1 (Cozmoslabs, Razvan Mocanu, Madalin Ungureanu, Cristophor Hurduban)
+[23/Nov/2022:09:27:17] (I): [PLUGIN] WPForms Lite : v1.7.8 (WPForms)
+[23/Nov/2022:09:27:17] (P): Installing optimole-wp.
+[23/Nov/2022:09:27:21] (P): Activating optimole-wp.
+[23/Nov/2022:09:27:21] (S): Installed and activated plugins.

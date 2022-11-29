@@ -1,0 +1,77 @@
+07 July 2022 - v1.0.11
+===================================
+Fixed: WordPress 6.0 compatibility
+Fixed: Demo Import Updated
+Fixed: Zix-core plugin updated
+Fixed: Dipricated Function Updated
+
+
+29 March 2022 - v1.0.10
+===================================
+Fixed: WordPress 5.9.2 compatibility
+Fixed: Demo Import Updated
+Fixed: Elementor 3.6.1 compatibility
+
+05th December 2021 - v1.0.9
+===================================
+Fixed: WordPress 5.8.2 compatibility
+Fixed: Demo Import Updated
+Added: Droit Addons For Elementor
+Added: Droit Dark Mode
+
+6th January 2021 - v1.0.8
+===================================
+Tweaked: Image size, Title limit letter [Blog widget]
+New: Portfolio title-bar customization options & re-write slug option [Zix Options > Portfolio]
+New: Service title-bar customization options & re-write slug option [Zix Options > Services]
+New: Team title-bar customization options & re-write slug option [Zix Options > Team]
+Added: Breadcrumb show/hide option [Zix Option > Header > Page Header]
+Tweaked: Content style added [Workprocess widget]
+Fixed: Action button not appearing in mobile
+Fixed: The menu style is broken when using zix child theme.
+Tweaked: Redux Framework deprecated function updated.
+
+23th August 2020 - v1.0.7
+===================================
+Fixed: WP color picker issue.
+Fixed: Product TI Wishlist Icon.
+Added: WooCommerce product gallery
+
+9th June 2020 - v1.0.6
+===================================
+Fixed: Theme Accent Color Issue.
+Fixed: Testimonial and Team widget color issue
+
+31th May 2020 - v1.0.5
+===================================
+New: WPML support integrated
+Modified: Footer Widget Settings
+Fixed: Gutenberg issue
+New: Added Child Theme
+
+
+20th May 2020 - v1.0.4
+===================================
+New: Gutenberg support integrated
+Fixed: Logo dimension and Blog meta switch
+
+
+14th May 2020 - v1.0.3
+===================================
+Add New: RTL support integrated
+
+
+13th May 2020 - v1.0.2
+===================================
+Modified: Theme Options and Elementor Widgets Settings.
+Fixed: Responsive Issue.
+
+9th May 2020 - v1.0.1
+===================================
+New: WooCommerce support enabled
+New: Home [ Business Agency, Agency Dark, Online Shop ] added.
+
+
+
+7th May 2020
+Initial Release ===================

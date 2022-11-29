@@ -1,0 +1,95 @@
+/*============================================
+	
+	'Hex': '#d80018',  'colorName': 'red-2'
+
+============================================*/
+ #banner .text-slider h3, .port-over .over-info, .inspectors .teach-over, #testimonial .carousel-indicators li .feeder-name {
+	background: rgba(216, 0, 24,0.8);
+}
+#accordion .panel-default > .panel-heading .panel-title a:before {
+	color: #d80018;
+}
+#accordion .panel-default > .panel-heading .panel-title a.collapsed:before, .missing-2 .cont .change {
+	color: #d80018;
+}
+#banner .text-slider .btn {
+	border: 2px solid #fff;
+	background: rgba(0,0,0,0.2);
+}
+#banner .text-slider button.btn {
+	background: #d80018;
+	border: none;
+}
+#banner .text-slider button.btn:hover {
+	background: rgba(0,0,0,0.5);
+}
+#feature li a:hover {
+	background: rgba(255,255,255,0.2);
+	border-color: rgba(255,255,255,0.2);
+}
+#banner .text-slider .btn:hover {
+	background: #d80018;
+	border-color: #d80018;
+}
+.top-bar, header nav li a:hover {
+	border-color: #d80018;
+}
+.pagination > li > a:hover, .intrested-2 {
+	background: #d80018;
+}
+#pricing.pricing-2 .price-inner.papu {
+	border-top-color: #d80018;
+}
+#banner .text-slider p {
+	background: rgba(0,0,0,0.5);
+}
+.tittle h3, #feature li:hover .icon, .port-over .over-info a:hover {
+	color: #d80018;
+}
+#pricing .price-inner .check-gr i {
+	color: #d80018 !important;
+}
+#pricing .price-inner .btn {
+	background: #d80018;
+}
+#pricing .price-inner .btn:hover {
+	background: #4d4d4d;
+}
+.quote .btn:hover {
+	color: #d80018;
+}
+header .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+	color: #d80018;
+}
+header .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+	border-bottom: 2px solid #d80018;
+	color: #d80018;
+}
+.btn, .intrested-2 .intres-lesson .btn {
+	background: #4d4d4d;
+}
+.btn:hover, .intrested-2 .intres-lesson .btn:hover, .logo a .logo-hex {
+	background: #d80018;
+}
+.quote, footer button, .intres-lesson .btn, .products .pro-info .btn, .nav-tabs .nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus {
+	background: #d80018;
+}
+.products .pro-info .btn-1 {
+	background: #f8f8f8;
+}
+#feature li:hover .inner, .filter li a.active, .filter li a:hover, .products .pro-info .btn-1:hover {
+	background: #d80018;
+	border-color: #d80018;
+}
+#pricing .price-head {
+	background: url(../../images/price-bg-2.png) top center no-repeat;
+}
+#pricing li:hover .price-head {
+	background: url(../../images/price-bg-2.png) top center no-repeat;
+}
+.products .pro-info .btn {
+}
+#pricing.pricing-2 li .price-head {
+	background: none !important;
+}
+

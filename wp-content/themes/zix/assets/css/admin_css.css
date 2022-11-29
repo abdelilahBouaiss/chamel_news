@@ -1,0 +1,21 @@
+/*zix_admin.css*/
+
+.ocdi__gl-item.js-ocdi-gl-item:nth-child(2){
+    display: none;
+}
+/* Demo Import */
+.ocdi__demo-import-notice{
+    padding: 0 !important;
+    margin: 0;
+    background-color: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+.ocdi__demo-import-notice img{
+    max-width: 100%;
+    width: initial;
+}
+.ocdi__demo-import-notice:not(:empty){
+
+}
+

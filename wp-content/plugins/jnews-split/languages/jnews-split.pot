@@ -1,0 +1,310 @@
+# Copyright (C) 2022 Jegtheme
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: JNews - Split 10.0.4\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Jegtheme <support@jeghteme.com>\n"
+"Language-Team: Jegtheme <support@jeghteme.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-11-07T08:44:49+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: jnews-split\n"
+
+#. Plugin Name of the plugin
+msgid "JNews - Split"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "http://jegtheme.com/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Split post into several page"
+msgstr ""
+
+#. Author of the plugin
+msgid "Jegtheme"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://jegtheme.com"
+msgstr ""
+
+#: metabox/post-split.php:17
+msgid "Enable Post Split on this Post"
+msgstr ""
+
+#: metabox/post-split.php:18
+msgid "Enable post split on this page. Please don't use this feature with WordPress <!--nextpage-->. This plugin will only get first matched tag criteria (on same wrapper). If you have multiple row / column or child with tag that build by page builder, it will be ignored."
+msgstr ""
+
+#: metabox/post-split.php:26
+#: metabox/post-split.php:27
+msgid "Post Split Option"
+msgstr ""
+
+#: metabox/post-split.php:39
+msgid "Post Split Template"
+msgstr ""
+
+#: metabox/post-split.php:40
+msgid "Choose post split template"
+msgstr ""
+
+#: metabox/post-split.php:46
+msgid "Split Post Template 1"
+msgstr ""
+
+#: metabox/post-split.php:51
+msgid "Split Post Template 2"
+msgstr ""
+
+#: metabox/post-split.php:56
+msgid "Split Post Template 3"
+msgstr ""
+
+#: metabox/post-split.php:61
+msgid "Split Post Template 4"
+msgstr ""
+
+#: metabox/post-split.php:66
+msgid "Split Post Template 5"
+msgstr ""
+
+#: metabox/post-split.php:71
+msgid "Split Post Template 6"
+msgstr ""
+
+#: metabox/post-split.php:76
+msgid "Split Post Template 7"
+msgstr ""
+
+#: metabox/post-split.php:81
+msgid "Split Post Template 8"
+msgstr ""
+
+#: metabox/post-split.php:86
+msgid "Split Post Template 9"
+msgstr ""
+
+#: metabox/post-split.php:91
+msgid "Split Post Template 10"
+msgstr ""
+
+#: metabox/post-split.php:96
+msgid "Split Post Template 11"
+msgstr ""
+
+#: metabox/post-split.php:101
+msgid "Split Post Template 12"
+msgstr ""
+
+#: metabox/post-split.php:106
+msgid "Split Post Template 13"
+msgstr ""
+
+#: metabox/post-split.php:111
+msgid "Split Post Template 14"
+msgstr ""
+
+#: metabox/post-split.php:116
+msgid "Split Post Template 15"
+msgstr ""
+
+#: metabox/post-split.php:121
+msgid "Split Post Template 16"
+msgstr ""
+
+#: metabox/post-split.php:126
+msgid "Split Post Template 17"
+msgstr ""
+
+#: metabox/post-split.php:131
+msgid "Split Post Template 18"
+msgstr ""
+
+#: metabox/post-split.php:136
+msgid "Split Post Template 19"
+msgstr ""
+
+#: metabox/post-split.php:141
+msgid "Split Post Template 20"
+msgstr ""
+
+#: metabox/post-split.php:153
+msgid "Split Post by using this Tag"
+msgstr ""
+
+#: metabox/post-split.php:154
+msgid "Your post will be split with this header as their mark"
+msgstr ""
+
+#: metabox/post-split.php:159
+msgid "Heading 1 ( H1 Tag )"
+msgstr ""
+
+#: metabox/post-split.php:163
+msgid "Heading 2 ( H2 Tag )"
+msgstr ""
+
+#: metabox/post-split.php:167
+msgid "Heading 3 ( H3 Tag )"
+msgstr ""
+
+#: metabox/post-split.php:171
+msgid "Heading 4 ( H4 Tag )"
+msgstr ""
+
+#: metabox/post-split.php:175
+msgid "Heading 5 ( H5 Tag )"
+msgstr ""
+
+#: metabox/post-split.php:179
+msgid "Heading 6 ( H6 Tag )"
+msgstr ""
+
+#: metabox/post-split.php:187
+msgid "Split Header Numbering"
+msgstr ""
+
+#: metabox/post-split.php:188
+msgid "Choose how your split page number used"
+msgstr ""
+
+#: metabox/post-split.php:193
+msgid "Descending (ex : 3, 2, 1)"
+msgstr ""
+
+#: metabox/post-split.php:197
+msgid "Ascending (ex : 1, 2, 3)"
+msgstr ""
+
+#: metabox/post-split.php:205
+msgid "Load Mode for Post Split"
+msgstr ""
+
+#: metabox/post-split.php:206
+msgid "Choose your how your post split will load"
+msgstr ""
+
+#: metabox/post-split.php:211
+msgid "Normal Load"
+msgstr ""
+
+#: metabox/post-split.php:215
+msgid "Load All Content"
+msgstr ""
+
+#: metabox/post-split.php:219
+msgid "Load Content with Ajax"
+msgstr ""
+
+#: metabox/post-split.php:234
+msgid "Featured Image"
+msgstr ""
+
+#: metabox/post-split.php:235
+msgid "Show featured image on all pages. Only shows on the first page if false"
+msgstr ""
+
+#: metabox/post-split.php:249
+#: type/class.jnews-split-type-list.php:115
+msgid "Table of Contents"
+msgstr ""
+
+#: metabox/post-split.php:250
+msgid "Activate table of contents on top of content when using this split post type"
+msgstr ""
+
+#: metabox/post-split.php:264
+msgid "Table of Contents Type"
+msgstr ""
+
+#: metabox/post-split.php:265
+msgid "Choose table of contents type"
+msgstr ""
+
+#: metabox/post-split.php:270
+msgid "Normal"
+msgstr ""
+
+#: metabox/post-split.php:274
+msgid "Floating"
+msgstr ""
+
+#: metabox/post-split.php:278
+msgid "Both"
+msgstr ""
+
+#: metabox/post-split.php:311
+msgid "Activate License"
+msgstr ""
+
+#: metabox/post-split.php:314
+msgid ""
+"<span style=\"display: block;\">Please activate your copy of JNews to unlock this feature. Click button bellow to activate:</span>\n"
+"\t\t\t\t\t\t<span class=\"jnews-notice-button\">\n"
+"\t\t\t\t\t\t\t<a href=\"%s\" class=\"button-primary jnews_customizer_activate_license\">Activate Now</a>\n"
+"\t\t\t\t\t\t</span>"
+msgstr ""
+
+#: split-option.php:12
+msgid "Post Split Loader Style"
+msgstr ""
+
+#: split-option.php:13
+msgid "Choose loader style for post split."
+msgstr ""
+
+#: split-option.php:15
+msgid "Dot"
+msgstr ""
+
+#: split-option.php:16
+msgid "Circle"
+msgstr ""
+
+#: split-option.php:17
+msgid "Square"
+msgstr ""
+
+#: type/class.jnews-split-type-1.php:28
+msgid "Jump to section"
+msgstr ""
+
+#: type/class.jnews-split-type-1.php:40
+#: type/class.jnews-split-type-16.php:52
+#: type/class.jnews-split-type-19.php:52
+#: type/class.jnews-split-type-abstract.php:277
+msgid "Page %s of %s"
+msgstr ""
+
+#: type/class.jnews-split-type-1.php:61
+#: type/class.jnews-split-type-2.php:69
+#: type/class.jnews-split-type-3.php:39
+#: type/class.jnews-split-type-4.php:36
+#: type/class.jnews-split-type-4.php:79
+#: type/class.jnews-split-type-5.php:78
+msgid "Previous"
+msgstr ""
+
+#: type/class.jnews-split-type-1.php:65
+#: type/class.jnews-split-type-2.php:77
+#: type/class.jnews-split-type-3.php:42
+#: type/class.jnews-split-type-4.php:39
+#: type/class.jnews-split-type-4.php:87
+#: type/class.jnews-split-type-5.php:86
+msgid "Next"
+msgstr ""
+
+#: type/class.jnews-split-type-abstract.php:289
+msgid "Page %s"
+msgstr ""
+
+#: type/class.jnews-split-type-list.php:71
+msgid "of"
+msgstr ""
